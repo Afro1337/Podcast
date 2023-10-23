@@ -1,0 +1,10 @@
+C:\Users\samue\source\repos\PodcastProjekt1\bin\Debug\PodcastProjekt1.exe.config
+C:\Users\samue\source\repos\PodcastProjekt1\bin\Debug\PodcastProjekt1.exe
+C:\Users\samue\source\repos\PodcastProjekt1\bin\Debug\PodcastProjekt1.pdb
+C:\Users\samue\source\repos\PodcastProjekt1\obj\Debug\PodcastProjekt1.csproj.AssemblyReference.cache
+C:\Users\samue\source\repos\PodcastProjekt1\obj\Debug\PodcastProjekt1.Form1.resources
+C:\Users\samue\source\repos\PodcastProjekt1\obj\Debug\PodcastProjekt1.Properties.Resources.resources
+C:\Users\samue\source\repos\PodcastProjekt1\obj\Debug\PodcastProjekt1.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\PodcastProjekt1\obj\Debug\PodcastProjekt1.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\PodcastProjekt1\obj\Debug\PodcastProjekt1.exe
+C:\Users\samue\source\repos\PodcastProjekt1\obj\Debug\PodcastProjekt1.pdb
