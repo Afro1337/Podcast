@@ -1,0 +1,2 @@
+C:\Users\samue\source\repos\Stomme123\PoddcastApp\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\samue\source\repos\Stomme123\PoddcastApp\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache

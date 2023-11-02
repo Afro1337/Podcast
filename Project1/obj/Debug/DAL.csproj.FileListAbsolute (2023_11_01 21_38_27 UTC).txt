@@ -1,0 +1,2 @@
+C:\Users\samue\source\repos\Stomme123\PoddcastApp\Project1\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\samue\source\repos\Stomme123\PoddcastApp\Project1\obj\Debug\DAL.csproj.CoreCompileInputs.cache
